@@ -11,7 +11,7 @@ This document provides a brief overview of Project Zeus, outlining its goals, ke
 
 Project Zeus aims to achieve the following:
 
-* **Improve performance** by 15% across all core services.
+* **Improve performance** by 20% across all core services.
 * Simplify the deployment process using Docker and Kubernetes.
 * Enhance security through updated authentication protocols.
 
